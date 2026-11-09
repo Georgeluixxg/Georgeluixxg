@@ -24,9 +24,6 @@ Aplicación web de recetas y organización de comidas, en producción y hecha en
 | Despliegue | GitHub Actions (tipos, pruebas, build y auditoría en cada cambio), Vercel y Cloudflare |
 | Privacidad | Pensada para el RGPD: consentimientos, exportar y borrar los datos de la cuenta |
 
-> El código es privado. Si quieres verlo para un proceso de selección, escríbeme y te doy acceso.
-> *The source code is private. Happy to grant access for a hiring process.*
-
 ---
 
 ## Contacto
